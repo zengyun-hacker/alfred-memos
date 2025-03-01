@@ -1,6 +1,6 @@
 # Alfred Memos
 
-A simple Alfred workflow that allows you to quickly create memos using the Memos API directly from Alfred.
+A simple Alfred workflow that allows you to quickly create memos using the [Memos](https://github.com/usememos/memos) API directly from Alfred.
 
 ## Introduction
 
